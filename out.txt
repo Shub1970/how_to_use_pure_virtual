@@ -1,0 +1,10 @@
+Rohit : process salary for Engineer
+shuhbham : process salary for Engineer
+kavita : process salary for Engineer
+shambhu : process salary for Engineer
+kamal : process salary for Manager
+rajib : process salary for Manager
+ranjana : process salary for Director
+shivam : process salary for Director
+hari : process salary for SalesExecutive
+bishnu : process salary for SalesExecutive
